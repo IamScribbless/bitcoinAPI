@@ -1,0 +1,12 @@
+{
+  "name": "coinbase-api",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "coinbase": "^2.0.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  }
+}
+
